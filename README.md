@@ -5,16 +5,13 @@
   <b>Full-Stack Developer | Creative Mind with Coding Skills | Lifelong Learner </b>
 </p>
 
-- 🚀 Building highly aesthetic and intuitive web apps with React, Angular, Node.js, SQL, and other modern web technologies. <br/>
-- 💻 Consistently interfacing with AI technologies such as ChatGPT, CoPilot, and Claude to strategically plan, collaborate, and solve real world problems. <br/>
-- 🌱 Exploring new tools, patterns, and design principles. <br/>
-- 💡 Writing and delivering clean, scalable, and maintainable code!
+### 😁 About Me
+I'm a Full Stack Developer with a front-end focus, passionate about blending artistic design and technology to build clean, modern, and intuitive web applications. I love creating responsive, accessible interfaces that elevate user experiences and bring ideas to life through thoughtful design and efficient code.
 
----
+Proficient across the full development stack, I also enjoy building APIs, optimizing performance, and deploying scalable solutions. I'm highly skilled in leveraging AI-assisted development tools and emerging technologies to increase efficiency, enhance product quality, and contribute to high-performing, forward-thinking teams. 
 
-### 🧠 About Me
+I'm eager to contribute to teams that value creativity, collaboration, and innovation.
 
-- 🧩 I enjoy designing and improving user experiences, building clean interfaces, and making apps people *actually* love to use.  
 - ⚡ Fun facts: I love pickleball, ice hockey, and long walks and hikes to recharge creative energy.  
 
 ---
