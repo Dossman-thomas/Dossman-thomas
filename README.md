@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Nice to meet you, I'm Tom Dossman!</h1>
+<h1 align="center">👋 Nice to meet you, I'm Tom!</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Creative Mind with Coding Skills | Lifelong Learner </b>
