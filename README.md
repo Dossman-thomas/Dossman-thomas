@@ -12,7 +12,7 @@ Proficient across the full development stack, I also enjoy building APIs, optimi
 
 I'm eager to contribute to teams that value creativity, collaboration, and innovation.
 
-- ⚡ Fun facts: I love pickleball, ice hockey, golf, windsurfing, and long walks and hikes to recharge creative energy! 
+- ⚡ Fun facts: I love playing music, pickleball, ice hockey, golf, windsurfing, and long walks and hikes to recharge creative energy! 
 
 ---
 
